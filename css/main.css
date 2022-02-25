@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: purple;
+}
+h1{
+    color: white;
+}
+p{
+    font-size: 20px;
+    color:white;
+}
+ul{
+    display: flex;
+    justify-content: left;
+    background-color: bisque;
+    font-weight: 700;
+    font-style: oblique;
+    color: ;
+}
+ul>li{
+    margin-right: 30px;
+    padding: 20px;
+    border: 1px solid black;
+    
+}
+hr{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+ol{
+    background-color: green;
+}
+ol>li>a:hover{
+    color: rebeccapurple;
+}
